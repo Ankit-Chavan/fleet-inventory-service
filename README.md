@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fleet Inventory Management Service
 
 ## Overview
