@@ -1,10 +1,13 @@
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\ml\Predictor.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\dto\AllocationRequestDto.java
+C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\repository\VehicleRepository.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\controller\AllocationController.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\FleetInventoryApplication.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\service\InventoryService.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\dto\InventoryDto.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\algorithm\OptimizedDataStructures.java
+C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\controller\VehicleController.java
+C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\service\VehicleService.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\config\WebConfig.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\repository\InventoryRepository.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\controller\InventoryController.java
@@ -12,6 +15,7 @@ C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\algorithm\AllocationEngine.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\service\PredictionService.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\util\Metrics.java
+C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\dto\VehicleDto.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\service\AllocationService.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\model\Vehicle.java
 C:\Users\ankit\Fleet Inventory\fleet-inventory-service\src\main\java\com\example\fleet\config\SecurityConfig.java
